@@ -1,0 +1,30 @@
+header {
+  padding: 0;
+  margin-bottom: 250px;
+  h1 {
+    text-align: center;
+  }
+}
+
+blockquote {
+    padding: 2em;
+    border-radius: 1em;
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  align-items: center;
+  background-color: rgb(184, 184, 184);
+  display: grid;
+  grid-template-columns: 1fr;
+
+  q {
+    text-align: center;
+  }
+  img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 1em auto;
+
+  }
+}
